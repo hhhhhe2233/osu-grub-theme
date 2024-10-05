@@ -49,6 +49,7 @@ terminal-height: "98%"
   left = 395
   top = 40%
   align = "center"
+  id = "__timeout__"
   text = "启动"
   color = "#ff8099"
   font = "Smiley Sans Italic 32"
